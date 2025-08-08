@@ -1,6 +1,6 @@
 # Java Notes App–File I/O Project
 
-#Description
+# Description
 
 This is a simple **text-based Notes Manager** built in **Java** using `FileWriter` and `BufferedReader`.  
 It allows you to:
@@ -12,7 +12,7 @@ This project was created as part of my **Java Developer Internship – Task 4**.
 
 ---
 
-#Technologies Used
+# Technologies Used
 - Java  
 - File I/O (`FileWriter`, `FileReader`, `BufferedReader`)  
 - Exception Handling (`try-with-resources`)  
@@ -20,7 +20,7 @@ This project was created as part of my **Java Developer Internship – Task 4**.
 
 ---
 
-#How to Run
+# How to Run
 1. Clone or download this repository.  
 2. Open the project in **Eclipse** (or any Java IDE).  
 3. Run `NotesApp.java`.  
@@ -32,7 +32,7 @@ This project was created as part of my **Java Developer Internship – Task 4**.
 
 ---
 
-#Usage
+# Usage
 
 Enter the file name: notes.txt
 
